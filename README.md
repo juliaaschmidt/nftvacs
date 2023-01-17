@@ -2,6 +2,12 @@
 
 ## Vaccination NFT Contract
 
+Decentralised Vaccination Record Storage. No Centralised Servers or Databases are used.
+(Non-custodial: user's private key is stored locally in their app)
+maximise self-custody.
+
+
+
 - Vaccination NFT (active)
 - Person NFT (on hold)
 
