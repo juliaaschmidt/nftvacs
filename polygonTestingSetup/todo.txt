@@ -1,7 +1,0 @@
-
-- impfung - batch - date - dr - receiver - recieverBirthday - bodyPart
-- metadata; plain data; name der person + Geburtsdatum
-- https://github.com/Fa-95/vac_v2/blob/main/assets/Connections/MyFancyFunction.js
-- 29 -35
-
-- login screen 

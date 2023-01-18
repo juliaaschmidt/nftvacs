@@ -1,6 +1,0 @@
-Link to Folder with JSONs:
-https://gateway.pinata.cloud/ipfs/QmR1yHJYafBkwCXMfnytoQXryiyWWiCncTotkKxsHghTGX/
-
-Link to Folder with Images:
-https://gateway.pinata.cloud/ipfs/QmaSFfxno1hRqBave6RVgEvYvGiWzhK3Cyytyxnp4MSVod
-

@@ -18,3 +18,20 @@ All tests passing:
 - Minting authority is deployer contract address
 - Minting to User Wallet Successfully
 - Mints are correctly tracked by contract
+
+
+## Open Tasks
+
+- add more details to hash: impfung - batch - date - dr - receiver - recieverBirthday - bodyPart
+- adding unit test is not possible: // before token transfer: 
+require(to == address(0), "NFTs are non-transferable, can only be burnt.");
+otherwise mitning won't work.    
+
+
+
+## Completed Tasks
+
+- metadata; plain data; name der person + Geburtsdatum
+- https://github.com/Fa-95/vac_v2/blob/main/assets/Connections/MyFancyFunction.js
+- lines 29 - 35: code updated
+

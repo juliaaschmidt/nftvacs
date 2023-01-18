@@ -1,5 +1,0 @@
-
-// before token transfer: 
-require(to == address(0), "NFTs are non-transferable, can only be burnt.");    
-
-

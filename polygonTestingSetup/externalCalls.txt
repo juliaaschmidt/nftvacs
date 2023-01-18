@@ -1,3 +1,0 @@
-// external calls
-// (bool success, bytes memory balanceUser) = tokenAddress.call(abi.encode("balanceOf(address)", msg.sender));
-//         require(abi.decode(balanceUser, (uint256)) 
