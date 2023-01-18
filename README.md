@@ -10,6 +10,7 @@ maximise self-custody.
 - Vaccination NFT (active)
 - Person NFT (on hold)
 
+
 ## Hardhat NFT Contract Unit Tests
 
 All tests passing:
@@ -26,7 +27,7 @@ All tests passing:
 - adding unit test is not possible: // before token transfer: 
 require(to == address(0), "NFTs are non-transferable, can only be burnt.");
 otherwise mitning won't work.    
-
+- redeploy metadata to ipfs -> then modify link in contract, watch out for / problem
 
 
 ## Completed Tasks
