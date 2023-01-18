@@ -1,0 +1,12 @@
+# New DAO Deployed II
+Polygon Mumbai Contract addresses: 
+
+Compiled 16 Solidity files successfully
+Person Nft deployed to: 0x2c5d3bb1469eCE6E7C7dA264369f809F52596B94
+Vaccination Nft deployed to: 0x110a027Fd93CF8C74D42E9B270740C65ECed8095
+
+Check for vaccinations in my wallet: 0x34397eE057D3BeCf7541b92E849405e1fd8C69Ba
+You should find 3 different vaccinations with unencrypted hashes.
+
+
+                                                                          

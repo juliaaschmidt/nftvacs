@@ -1,0 +1,23 @@
+ 1. deploy
+yarn hardhat run tasks/deploy/deployPerson.ts --network polygon-mumbai
+yarn hardhat run tasks/deploy/deployPerson.ts --network polygon-mumbai  
+
+ 2. verify identical bytecode contracts correctly:
+
+yarn hardhat verify 0x0E962A67C9435338317c7B9CD8156686C6595EB1 --network polygon-mumbai --contract contracts/Person.sol:Person
+
+yarn hardhat verify 0xbf43727F5E4A562F449b78c523983aaE3b9c7FA4 --network polygon-mumbai --contract contracts/Vaccination.sol:Vaccination
+
+3. verified contract addresses are: 
+
+Person:
+https://mumbai.polygonscan.com/address/0x0E962A67C9435338317c7B9CD8156686C6595EB1#code
+
+Vac:
+https://mumbai.polygonscan.com/address/0xbf43727F5E4A562F449b78c523983aaE3b9c7FA4#code
+
+
+// OLD VERSIONS: deployed& verified versions:
+vac: https://mumbai.polygonscan.com/address/0xA07073d5F108359E636C2e81A8ff38AB2f3Bf310#code
+person: 0x59F5c8F3ace9dCDF354592AFe705D129F3EB0C44
+

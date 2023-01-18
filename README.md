@@ -7,7 +7,6 @@ Decentralised Vaccination Record Storage. No Centralised Servers or Databases ar
 maximise self-custody.
 
 
-
 - Vaccination NFT (active)
 - Person NFT (on hold)
 
@@ -15,5 +14,7 @@ maximise self-custody.
 
 All tests passing:
 - Non-transferability
+- Burnable by only the minting authority
 - Minting authority is deployer contract address
 - Minting to User Wallet Successfully
+- Mints are correctly tracked by contract
